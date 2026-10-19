@@ -1,16 +1,15 @@
-## Hi there 👋
+# Dominic Saveski
 
-<!--
-**ItsUkrainianCat/ItsUkrainianCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on evaluating AI models, with a biomedical background: coursework in biochemistry and
+biomedical sciences, emergency-medicine shadowing, and self-directed study of pharmacology.
 
-Here are some ideas to get you started:
+## Projects
+- [IntentOpt](https://github.com/ItsUkrainianCat/intentopt): prompt optimization that returns the
+  original unless a rewrite beats it by more than measured noise. Development build; the README
+  states what is and is not verified.
+- [FORGE-RLM](https://github.com/ItsUkrainianCat/FORGE-RLM): research scaffold for recursive-language-model
+  harness search that treats evaluator gaming as an explicit research question. No capability gains claimed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I develop with Claude Code and publish status sections that say what has not been verified.
+
+LinkedIn: https://www.linkedin.com/in/dominic-saveski/
