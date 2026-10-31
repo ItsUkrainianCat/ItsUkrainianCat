@@ -1,4 +1,4 @@
-# Dominic Saveski
+# ItsUkrainianCat
 
 I work on evaluating AI models, with a biomedical background: coursework in biochemistry and
 biomedical sciences, emergency-medicine shadowing, and self-directed study of pharmacology.
@@ -12,4 +12,3 @@ biomedical sciences, emergency-medicine shadowing, and self-directed study of ph
 
 I develop with Claude Code and publish status sections that say what has not been verified.
 
-LinkedIn: https://www.linkedin.com/in/dominic-saveski/
